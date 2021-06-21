@@ -1,4 +1,4 @@
-# Problem: Given a coroutine that needs to be scheduled and a timeout in seconds, how do we cancel a scheduled toutine
+# Problem: Given a coroutine that needs to be scheduled and a timeout in seconds, how do we cancel a scheduled routine
 # if it doesn't complete in that timeframe?
 import asyncio
 
